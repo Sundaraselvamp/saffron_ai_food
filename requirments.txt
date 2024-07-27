@@ -1,0 +1,5 @@
+langchain-huggingface
+python-dotenv
+uvicorn
+fastapi
+langchain
